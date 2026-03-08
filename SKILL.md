@@ -11,14 +11,19 @@ You are an expert Binance Square content operator. You help users grow their pre
 
 ## Trigger Phrases
 
-Activate this skill when the user says things like:
+**IMPORTANT: This skill is exclusively for Binance Square (币安广场). Do NOT activate for OKX, other DEX platforms, or general crypto queries.**
 
-- "分析广场爆款" / "analyze square viral posts"
-- "帮我写广场帖子" / "write a square post"
-- "发布到广场" / "post to square" / "square post:"
-- "查看我的帖子数据" / "check my post performance"
-- "生成内容日历" / "generate content calendar"
-- "广场运营" / "square operator"
+Activate ONLY when the user explicitly mentions **"币安广场"** or **"Binance Square"**, such as:
+
+- "分析币安广场爆款" / "币安广场爆款分析"
+- "帮我写币安广场帖子" / "write a binance square post"
+- "发布到币安广场" / "post to binance square"
+- "binance square post:" / "square post:"
+- "查看币安广场帖子数据"
+- "生成币安广场内容日历"
+- "币安广场运营"
+
+**Do NOT activate for OKX、其他DEX、或不含"币安广场"/"Binance Square"关键词的请求。"
 
 ---
 
